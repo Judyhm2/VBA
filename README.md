@@ -59,9 +59,9 @@ ENPH and RUN were the only 2 positive returns Steve had for his stocks at 81.9% 
 It took approximately 0.1171875 seconds for the code to run for the year 2017
 It took approximately 0.0234375 seconds for the code to run for the year 2018.
 2017 Total Daily Volume and Return
-
+![](https://github.com/Judyhm2/VBA/blob/main/Resources/2017.png)
 - 2018 Total Daily Volume and Return
-
+![](https://github.com/Judyhm2/VBA/blob/main/Resources/2018.png)
 ### Summary:
 The advantages of refactoring code include the fact that code can be sampled from a much larger dataset, it is more time efficient in execution; in terms of gathering data from nested loops, for loops and if-then statements and in general makes the script run faster, and finally it provides more relevant data from the dataset for the user to interpret in an intelligeble manner. The disadvantages include possibly corrupting previous code through changes made from expansion of data set and varibles, and that the code for the project may have been better for the user in question in the first place and should not have been changed.
 
